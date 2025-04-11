@@ -22,7 +22,7 @@ repository               : "XzhouCodespace/XzhouCodespace.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "certificate.png"
   name             : "Jiaqi Zhou"
   pronouns         : # example: "she/her"  
   bio              : "A PHD student"

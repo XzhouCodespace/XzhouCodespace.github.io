@@ -25,7 +25,7 @@ author:
   avatar           : "certificate.png"
   name             : "Jiaqi Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "A PHD student"
+  bio              : "PHD student"
   location         : "Earth"
   employer         : "Beihang University"
   uri              : # URL
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=IZZY3Y0AAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL

@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiaqi Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "A PHD student at Beihang University"
+  bio              : "A PHD student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Beihang University"
   uri              : # URL
   email            : "none@example.org" 
 
